@@ -1,0 +1,3 @@
+[submodule "peakdetect"]
+	path = peakdetect
+	url = https://github.com/xuphys/peakdetect.git
